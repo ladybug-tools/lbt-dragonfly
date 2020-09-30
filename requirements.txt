@@ -1,2 +1,2 @@
-dragonfly-energy==1.10.18
+dragonfly-energy==1.10.19
 lbt-honeybee==0.2.178
