@@ -23,7 +23,7 @@ dragonfly Python packages:
 
 ## All Ladybug and Honeybee Packages Are Also Included
 
-Since dragonfly uses ladybug and honeybee, the following is also included:
+Since dragonfly uses ladybug and honeybee, the following dependencies are also included:
 
 * [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)
 * [lbt-honeybee](https://github.com/ladybug-tools/lbt-honeybee)
