@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=requirements,
     extras_require={
-        'cli': ['click==7.1.2', "dragonfly-schema==1.6.16;python_version>='3.6'"]
+        'cli': ['click==7.1.2', "dragonfly-schema==1.6.17;python_version>='3.6'"]
     },
     classifiers=[
         "Programming Language :: Python :: 2.7",
