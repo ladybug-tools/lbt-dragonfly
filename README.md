@@ -1,7 +1,7 @@
 
 ![Dragonfly](http://www.ladybug.tools/assets/img/dragonfly.png)
 
-[![Build Status](https://travis-ci.com/ladybug-tools/lbt-dragonfly.svg?branch=master)](https://travis-ci.com/ladybug-tools/lbt-dragonfly)
+[![Build Status](https://github.com/ladybug-tools/lbt-dragonfly/workflows/CI/badge.svg)](https://github.com/ladybug-tools/lbt-dragonfly/actions)
 
 [![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)](https://www.python.org/downloads/release/python-270/) [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![IronPython](https://img.shields.io/badge/ironpython-2.7-red.svg)](https://github.com/IronLanguages/ironpython2/releases/tag/ipy-2.7.8/)
 
