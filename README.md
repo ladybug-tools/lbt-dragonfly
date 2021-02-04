@@ -13,13 +13,21 @@ Note that this repository and corresponding Python package does not contain any
 code and it simply exists to provide a shortcut for installing all of the dragonfly
 core libraries together.
 
-## Included Dragonfly Packages
+## Included Dragonfly Extensions
 
 Running `pip install lbt-dragonfly` will result in the installation of the following
 dragonfly Python packages:
 
-* [dragonfly-core](https://github.com/ladybug-tools/dragonfly-core)
+* [dragonfly-uwg](https://github.com/ladybug-tools/dragonfly-uwg)
 * [dragonfly-energy](https://github.com/ladybug-tools/dragonfly-energy)
+
+## Included Dragonfly Core Libraries
+
+Since both dragonfly extensions use the dragonfly core libraries, the following
+dependencies are also included:
+
+* [dragonfly-core](https://github.com/ladybug-tools/dragonfly-core)
+* [dragonfly-schema](https://github.com/ladybug-tools/dragonfly-schema)
 
 ## All Ladybug and Honeybee Packages Are Also Included
 
@@ -27,11 +35,3 @@ Since dragonfly uses ladybug and honeybee, the following dependencies are also i
 
 * [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)
 * [lbt-honeybee](https://github.com/ladybug-tools/lbt-honeybee)
-
-## The CLI option
-
-Running `pip install lbt-dragonfly[cli]` will ensure that all dependencies for the
-command line interfaces (CLI) are also installed, including:
-
-* [dragonfly-schema](https://github.com/ladybug-tools/dragonfly-schema)
-* [honeybee-schema](https://github.com/ladybug-tools/honeybee-schema)
