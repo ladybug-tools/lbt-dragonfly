@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "11:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: dragonfly-energy
+    versions:
+    - 1.12.13
+    - 1.12.28
+    - 1.12.54
+    - 1.12.65
+  commit-message:
+    prefix: fix
+    prefix-development: chore
+    include: scope
