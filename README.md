@@ -18,8 +18,9 @@ core libraries together.
 Running `pip install lbt-dragonfly` will result in the installation of the following
 dragonfly Python packages:
 
-* [dragonfly-uwg](https://github.com/ladybug-tools/dragonfly-uwg)
 * [dragonfly-energy](https://github.com/ladybug-tools/dragonfly-energy)
+* [dragonfly-uwg](https://github.com/ladybug-tools/dragonfly-uwg)
+* [dragonfly-doe2](https://github.com/ladybug-tools/dragonfly-doe2)
 
 ## Included Dragonfly Core Libraries
 
