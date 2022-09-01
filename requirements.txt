@@ -1,4 +1,4 @@
 dragonfly-energy==1.21.8
-dragonfly-uwg==0.5.239
+dragonfly-uwg==0.5.240
 dragonfly-doe2==0.11.2
 lbt-honeybee==0.6.30
