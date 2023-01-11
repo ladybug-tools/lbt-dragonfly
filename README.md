@@ -9,9 +9,9 @@
 
 Collection of all Dragonfly core Python libraries.
 
-Note that this repository and corresponding Python package does not contain any
+Note that this repository and corresponding Python package does not contain any source
 code and it simply exists to provide a shortcut for installing all of the dragonfly
-core libraries together.
+core libraries and extensions together.
 
 ## Included Dragonfly Extensions
 
@@ -36,3 +36,6 @@ Since dragonfly uses ladybug and honeybee, the following dependencies are also i
 
 * [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)
 * [lbt-honeybee](https://github.com/ladybug-tools/lbt-honeybee)
+
+Kerry
+516-500-4204
