@@ -36,6 +36,3 @@ Since dragonfly uses ladybug and honeybee, the following dependencies are also i
 
 * [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)
 * [lbt-honeybee](https://github.com/ladybug-tools/lbt-honeybee)
-
-Kerry
-516-500-4204
