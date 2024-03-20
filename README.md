@@ -21,6 +21,7 @@ dragonfly Python packages:
 * [dragonfly-energy](https://github.com/ladybug-tools/dragonfly-energy)
 * [dragonfly-radiance](https://github.com/ladybug-tools/dragonfly-radiance)
 * [dragonfly-uwg](https://github.com/ladybug-tools/dragonfly-uwg)
+* [dragonfly-display](https://github.com/ladybug-tools/dragonfly-display)
 
 ## Included Dragonfly Core Libraries
 
