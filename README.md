@@ -10,8 +10,8 @@
 Collection of all Dragonfly core Python libraries.
 
 Note that this repository and corresponding Python package does not contain any source
-code and it simply exists to provide a shortcut for installing all of the dragonfly
-core libraries and extensions together.
+code on its own and it simply exists to provide a shortcut for installing all of
+the dragonfly core libraries and extensions together.
 
 ## Included Dragonfly Extensions
 
