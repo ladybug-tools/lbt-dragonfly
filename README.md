@@ -31,7 +31,7 @@ dependencies are also included:
 * [dragonfly-core](https://github.com/ladybug-tools/dragonfly-core)
 * [dragonfly-schema](https://github.com/ladybug-tools/dragonfly-schema)
 
-## All Ladybug and Honeybee Packages Are Also Included
+## Also Included (All Ladybug and Honeybee Packages)
 
 Since dragonfly uses ladybug and honeybee, the following dependencies are also included:
 
