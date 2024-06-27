@@ -1,5 +1,5 @@
 dragonfly-energy==1.26.4
 dragonfly-radiance==0.3.93
-dragonfly-uwg==0.5.521
+dragonfly-uwg==0.5.522
 dragonfly-display==0.1.1
 lbt-honeybee==0.8.294
