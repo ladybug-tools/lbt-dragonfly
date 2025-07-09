@@ -4,4 +4,4 @@ dragonfly-doe2==0.12.2
 dragonfly-uwg==0.5.727
 dragonfly-display==0.3.6
 dragonfly-comparison==0.1.4
-lbt-honeybee==0.9.90
+lbt-honeybee==0.9.92
