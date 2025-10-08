@@ -1,5 +1,5 @@
 dragonfly-energy==1.35.35
-dragonfly-radiance==0.4.91
+dragonfly-radiance==0.4.92
 dragonfly-doe2==0.12.11
 dragonfly-uwg==0.5.743
 dragonfly-display==0.3.9
