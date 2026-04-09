@@ -20,6 +20,8 @@ dragonfly Python packages:
 
 * [dragonfly-energy](https://github.com/ladybug-tools/dragonfly-energy)
 * [dragonfly-radiance](https://github.com/ladybug-tools/dragonfly-radiance)
+* [dragonfly-openstudio](https://github.com/ladybug-tools/dragonfly-openstudio)
+* [dragonfly-doe2](https://github.com/ladybug-tools/dragonfly-doe2)
 * [dragonfly-uwg](https://github.com/ladybug-tools/dragonfly-uwg)
 * [dragonfly-display](https://github.com/ladybug-tools/dragonfly-display)
 
