@@ -1,4 +1,4 @@
-dragonfly-energy==1.46.15
+dragonfly-energy==1.46.16
 dragonfly-radiance==0.4.230
 dragonfly-openstudio==0.2.5
 dragonfly-doe2==0.12.20
