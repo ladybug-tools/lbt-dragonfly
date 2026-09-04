@@ -3,6 +3,6 @@ dragonfly-radiance==0.4.231
 dragonfly-openstudio==0.2.5
 dragonfly-doe2==0.12.21
 dragonfly-uwg==0.5.743
-dragonfly-display==0.5.0
+dragonfly-display==0.6.0
 dragonfly-comparison==0.1.4
 lbt-honeybee==0.9.466
